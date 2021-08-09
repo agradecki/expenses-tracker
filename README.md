@@ -10,5 +10,5 @@ Deploy status badge:
 
 # preview
 
-![](img/preview_1.png)
-![](img/preview_2.png)
+![](preview_1.png)
+![](preview_2.png)
